@@ -1,0 +1,1 @@
+# 7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado
