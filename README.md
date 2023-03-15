@@ -11,6 +11,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Clase 04 [Cálculo de probabilidad con Python](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2004/Cálculo%20de%20probabilidad%20con%20Python.ipynb)
 - Clase 05 [Regresión lineal](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2005/Regresión%20lineal.ipynb)
 - Clase 09 [Método de Gramm-Schmidt](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2009/Gramm-Schmidt.ipynb)
+- Clase 10 [Cálculo de distancias](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2010/Distancias.ipynb)
 
 ## 📫 Contacto
 - Facultad de Ciencias - [Grupo 7122](https://www.fciencias.unam.mx/docencia/horarios/presentacion/342748)
