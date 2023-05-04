@@ -21,6 +21,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##
-<!-- BLOG-POST-LIST:START -->
-
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zn5zjmXLds4"><img width="140px" src="https://i.ytimg.com/vi/Zn5zjmXLds4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Zn5zjmXLds4">Sesión 31 - PCA</a><br/>May 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=55YRDzfWT5A"><img width="140px" src="https://i.ytimg.com/vi/55YRDzfWT5A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=55YRDzfWT5A">Sesión 30 - Red con Keras</a><br/>May 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MxnaKbBSSNg"><img width="140px" src="https://i.ytimg.com/vi/MxnaKbBSSNg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MxnaKbBSSNg">Retroalimentación a preproyectos</a><br/>May 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_TFj0p8Blmc"><img width="140px" src="https://i.ytimg.com/vi/_TFj0p8Blmc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_TFj0p8Blmc">Sesión 30 - Correlación y covarianza.</a><br/>May 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SEdXSUs2wGI"><img width="140px" src="https://i.ytimg.com/vi/SEdXSUs2wGI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SEdXSUs2wGI">Sesión 29 - Árboles filogenéticos</a><br/>Apr 28, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
