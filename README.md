@@ -20,7 +20,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Facultad de Ciencias - [Grupo 7122](https://www.fciencias.unam.mx/docencia/horarios/presentacion/342748)
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
-##
+##  📺 	YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Zn5zjmXLds4"><img width="140px" src="https://i.ytimg.com/vi/Zn5zjmXLds4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zn5zjmXLds4">Sesión 31 - PCA</a><br/>May 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=55YRDzfWT5A"><img width="140px" src="https://i.ytimg.com/vi/55YRDzfWT5A/mqdefault.jpg"></a></td>
