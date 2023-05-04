@@ -19,3 +19,8 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 ## 📫 Contacto
 - Facultad de Ciencias - [Grupo 7122](https://www.fciencias.unam.mx/docencia/horarios/presentacion/342748)
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
+
+##
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
