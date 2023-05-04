@@ -21,6 +21,6 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##
-<!-- YOUTUBE:START -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:END -->
