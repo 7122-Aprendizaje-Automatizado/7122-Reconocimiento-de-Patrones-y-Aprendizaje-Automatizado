@@ -17,6 +17,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Ejemplo Red Neuronal [Ejemplo Red Neuronal](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Red%20Neuronal/ejemplo%20red%20neuronal.ipynb)
 
 ### Laboratorio
+- Seccion 01  [Primer sección de laboratorio](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/tree/main/Primer%20Seccion)
+- Seccion 02  [Segunda sección de laboratorio](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/tree/main/Segunda%20Seccion)
+
 
 ## 📫 Contacto
 - Facultad de Ciencias - [Grupo 7122](https://www.fciencias.unam.mx/docencia/horarios/presentacion/342748)
