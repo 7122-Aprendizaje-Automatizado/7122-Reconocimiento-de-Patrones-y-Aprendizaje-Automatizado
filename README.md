@@ -16,6 +16,8 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Clase 10 [Cálculo de distancias](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2010/Distancias.ipynb)
 - Ejemplo Red Neuronal [Ejemplo Red Neuronal](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Red%20Neuronal/ejemplo%20red%20neuronal.ipynb)
 
+### Laboratorio
+
 ## 📫 Contacto
 - Facultad de Ciencias - [Grupo 7122](https://www.fciencias.unam.mx/docencia/horarios/presentacion/342748)
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
