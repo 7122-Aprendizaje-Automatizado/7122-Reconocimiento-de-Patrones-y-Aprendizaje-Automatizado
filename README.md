@@ -26,7 +26,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU"><img width="140px" src="https://i.ytimg.com/vi/ZDgxj_LfCTU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE"><img width="140px" src="https://i.ytimg.com/vi/IFnAvJZyCgE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE">Sesión 32 - Función de información mutua</a><br/>May 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU"><img width="140px" src="https://i.ytimg.com/vi/ZDgxj_LfCTU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU">Clase 18 - Repaso redes neuronales</a><br/>May 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Qi-cNAHylHg"><img width="140px" src="https://i.ytimg.com/vi/Qi-cNAHylHg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qi-cNAHylHg">11 Lab. RPyAA. LDA y PCA - Usando sklearn. En datos Mnist.</a><br/>May 4, 2023</td></tr></table>
@@ -34,6 +36,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=Zn5zjmXLds4">Sesión 31 - PCA</a><br/>May 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=55YRDzfWT5A"><img width="140px" src="https://i.ytimg.com/vi/55YRDzfWT5A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=55YRDzfWT5A">Sesión 30 - Red con Keras</a><br/>May 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MxnaKbBSSNg"><img width="140px" src="https://i.ytimg.com/vi/MxnaKbBSSNg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MxnaKbBSSNg">Retroalimentación a preproyectos</a><br/>May 4, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
