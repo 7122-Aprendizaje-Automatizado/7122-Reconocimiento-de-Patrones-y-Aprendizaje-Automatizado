@@ -26,8 +26,8 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dIziMNU0zyM"><img width="140px" src="https://i.ytimg.com/vi/dIziMNU0zyM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dIziMNU0zyM">Sesión 33 - PCA</a><br/>May 9, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I"><img width="140px" src="https://i.ytimg.com/vi/MjszXfjDm5I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I">Sesión 32 - PCA</a><br/>May 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE"><img width="140px" src="https://i.ytimg.com/vi/IFnAvJZyCgE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE">Sesión 32 - Función de información mutua</a><br/>May 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU"><img width="140px" src="https://i.ytimg.com/vi/ZDgxj_LfCTU/mqdefault.jpg"></a></td>
