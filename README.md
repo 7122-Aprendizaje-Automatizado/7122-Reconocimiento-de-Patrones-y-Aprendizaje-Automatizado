@@ -15,6 +15,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Clase 09 [Método de Gramm-Schmidt](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2009/Gramm-Schmidt.ipynb)
 - Clase 10 [Cálculo de distancias](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Clase%2010/Distancias.ipynb)
 - Ejemplo Red Neuronal [Ejemplo Red Neuronal](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/Red%20Neuronal/ejemplo%20red%20neuronal.ipynb)
+- PCA [PCA](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/blob/main/PCA.ipynb)
 
 ### Laboratorio
 - Seccion 01  [Primer sección de laboratorio](https://github.com/7122-Aprendizaje-Automatizado/7122-Reconocimiento-de-Patrones-y-Aprendizaje-Automatizado/tree/main/Primer%20Seccion)
