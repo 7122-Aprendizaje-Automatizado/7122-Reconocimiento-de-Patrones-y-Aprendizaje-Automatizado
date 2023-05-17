@@ -27,14 +27,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=F1qlpTOXIBA"><img width="140px" src="https://i.ytimg.com/vi/F1qlpTOXIBA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m1W52t04jmo"><img width="140px" src="https://i.ytimg.com/vi/m1W52t04jmo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=m1W52t04jmo">Sesión 33 - Firma genómica con FIM</a><br/>May 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=psx8DZA4nvg"><img width="140px" src="https://i.ytimg.com/vi/psx8DZA4nvg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=psx8DZA4nvg">Sesión 33 - ConvNet/1</a><br/>May 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=F1qlpTOXIBA"><img width="140px" src="https://i.ytimg.com/vi/F1qlpTOXIBA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F1qlpTOXIBA">12 Lab. RPyAA. LDA - Usando numpy. En datos Mnist.</a><br/>May 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cWDwW-_X-1E"><img width="140px" src="https://i.ytimg.com/vi/cWDwW-_X-1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cWDwW-_X-1E">Clase 19 - Preprocesado de imágenes</a><br/>May 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I"><img width="140px" src="https://i.ytimg.com/vi/MjszXfjDm5I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I">Sesión 32 - PCA</a><br/>May 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE"><img width="140px" src="https://i.ytimg.com/vi/IFnAvJZyCgE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IFnAvJZyCgE">Sesión 32 - Función de información mutua</a><br/>May 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU"><img width="140px" src="https://i.ytimg.com/vi/ZDgxj_LfCTU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZDgxj_LfCTU">Clase 18 - Repaso redes neuronales</a><br/>May 5, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
