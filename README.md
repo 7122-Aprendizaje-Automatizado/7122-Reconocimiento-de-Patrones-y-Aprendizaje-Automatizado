@@ -28,14 +28,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m1W52t04jmo"><img width="140px" src="https://i.ytimg.com/vi/m1W52t04jmo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1IglYZEcJoo"><img width="140px" src="https://i.ytimg.com/vi/1IglYZEcJoo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1IglYZEcJoo">Sesión 34 - Divergencia de Kullback-Leibler</a><br/>May 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EE4JZOjN_tY"><img width="140px" src="https://i.ytimg.com/vi/EE4JZOjN_tY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EE4JZOjN_tY">Sesión 34 - ConvNet/2</a><br/>May 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m1W52t04jmo"><img width="140px" src="https://i.ytimg.com/vi/m1W52t04jmo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m1W52t04jmo">Sesión 33 - Firma genómica con FIM</a><br/>May 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=psx8DZA4nvg"><img width="140px" src="https://i.ytimg.com/vi/psx8DZA4nvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=psx8DZA4nvg">Sesión 33 - ConvNet/1</a><br/>May 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=F1qlpTOXIBA"><img width="140px" src="https://i.ytimg.com/vi/F1qlpTOXIBA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F1qlpTOXIBA">12 Lab. RPyAA. LDA - Usando numpy. En datos Mnist.</a><br/>May 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cWDwW-_X-1E"><img width="140px" src="https://i.ytimg.com/vi/cWDwW-_X-1E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cWDwW-_X-1E">Clase 19 - Preprocesado de imágenes</a><br/>May 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I"><img width="140px" src="https://i.ytimg.com/vi/MjszXfjDm5I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MjszXfjDm5I">Sesión 32 - PCA</a><br/>May 10, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
