@@ -28,7 +28,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qQ9jdbhan14"><img width="140px" src="https://i.ytimg.com/vi/qQ9jdbhan14/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=29qOquiduKc"><img width="140px" src="https://i.ytimg.com/vi/29qOquiduKc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=29qOquiduKc">Clase 18 - Redes neuronales convolucionales</a><br/>May 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qQ9jdbhan14"><img width="140px" src="https://i.ytimg.com/vi/qQ9jdbhan14/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qQ9jdbhan14">Sesión 29-0 - Métricas</a><br/>May 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XwptCXHYOv0"><img width="140px" src="https://i.ytimg.com/vi/XwptCXHYOv0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XwptCXHYOv0">Sesión 35 - PCA/2</a><br/>May 19, 2023</td></tr></table>
@@ -36,6 +38,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=OXyL6JMtOXU">13 Lab. RPyAA. La neurona básica - Usando numpy. En datos Mnist &lpar;PCA 2D&rpar;.</a><br/>May 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1IglYZEcJoo"><img width="140px" src="https://i.ytimg.com/vi/1IglYZEcJoo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1IglYZEcJoo">Sesión 34 - Divergencia de Kullback-Leibler</a><br/>May 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EE4JZOjN_tY"><img width="140px" src="https://i.ytimg.com/vi/EE4JZOjN_tY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EE4JZOjN_tY">Sesión 34 - ConvNet/2</a><br/>May 18, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
