@@ -28,12 +28,12 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cW6Kpa5O8hA"><img width="140px" src="https://i.ytimg.com/vi/cW6Kpa5O8hA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gdqxSr9pROk"><img width="140px" src="https://i.ytimg.com/vi/gdqxSr9pROk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gdqxSr9pROk">Sesión 36 - Regresiones lineal y logística</a><br/>May 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cW6Kpa5O8hA"><img width="140px" src="https://i.ytimg.com/vi/cW6Kpa5O8hA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cW6Kpa5O8hA">14 Lab. RPyAA. Generación de imagenes usando MLP apartir de puntos en un plano &lpar;PCA de Mnist&rpar;.</a><br/>May 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1KyBnyOfh6c"><img width="140px" src="https://i.ytimg.com/vi/1KyBnyOfh6c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1KyBnyOfh6c">Sesión 30-0: Diseño experimental</a><br/>May 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3OfeknNVO_Y"><img width="140px" src="https://i.ytimg.com/vi/3OfeknNVO_Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3OfeknNVO_Y">Sesión 36 - Regresión logística</a><br/>May 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=29qOquiduKc"><img width="140px" src="https://i.ytimg.com/vi/29qOquiduKc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=29qOquiduKc">Clase 18 - Redes neuronales convolucionales</a><br/>May 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qQ9jdbhan14"><img width="140px" src="https://i.ytimg.com/vi/qQ9jdbhan14/mqdefault.jpg"></a></td>
